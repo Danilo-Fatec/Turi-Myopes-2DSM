@@ -35,15 +35,15 @@ O objetivo é especificar e construir um site informativo que tem como objetivo 
 # 📑PRODUCT BACKLOG
 |  Requisitos Funcionais       |                              |                              
 |------------------------------|------------------------------|
-| RF01 - Focos de calor por estado | RF10 – Restringir as consultas por intervalo de tempo                          
-| RF02 – Focos de calor por bioma  | RF11 – Quais meses o risco de fogo é maior
-| RF03 – Risco de fogo por estado  | RF12 – O risco de fogo está associado a uma maior área queimada
-| RF04 – Risco de fogo por bioma   | RF13 – Fazer diagrama da UML
-| RF05 – Área queimada por estado  | RF16 – mapa com zoomRF16 – mapa com zoom
-| RF06 – Área queimada por bioma   | RF17 – Legendas no mapa
-| RF07 – Gráficos de focos de calor por estado e bioma  | RF18 – visual responsivo
-| RF08 – Gráficos de risco de fogo por estado e bioma  |  RF19 – Logo clicável para que o usuário possa voltar a página inicial
-| RF09 – Gráficos de área queimada por estado e bioma  |
+| RF01 - Focos de calor por estado. | RF10 – Restringir as consultas por intervalo de tempo.                          
+| RF02 – Focos de calor por bioma.  | RF11 – Quais meses o risco de fogo é maior.
+| RF03 – Risco de fogo por estado.  | RF12 – O risco de fogo está associado a uma maior área queimada.
+| RF04 – Risco de fogo por bioma.   | RF13 – Fazer diagrama da UML.
+| RF05 – Área queimada por estado.  | RF16 – mapa com zoomRF16 – mapa com zoom.
+| RF06 – Área queimada por bioma.   | RF17 – Legendas no mapa.
+| RF07 – Gráficos de focos de calor por estado e bioma.  | RF18 – visual responsivo.
+| RF08 – Gráficos de risco de fogo por estado e bioma.  |  RF19 – Logo clicável para que o usuário possa voltar a página inicial.
+| RF09 – Gráficos de área queimada por estado e bioma.  |
 
 |   Requisitos Não Funcionais  |                                                                                                                 
 |------------------------------|   
